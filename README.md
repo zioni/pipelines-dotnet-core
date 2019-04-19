@@ -1,4 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
+[![Build Status](https://hadar.visualstudio.com/ReqTracker/_apis/build/status/ReqTracker-ASP.NET%20Core%20(.NET%20Framework)-CI?branchName=master)](https://hadar.visualstudio.com/ReqTracker/_build/latest?definitionId=5&branchName=master)
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
